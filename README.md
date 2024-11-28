@@ -1,2 +1,3 @@
-# projetosAntigos
-Projetos antigos da faculdade
+# ProjetosAntigos
+
+Alguns projetos da faculdade que terminei
